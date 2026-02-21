@@ -63,9 +63,15 @@ html -h
 html main
 ```
 - this wil create a html file.
+---
+## 📄 License
 
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
 
-```
+---
 
-```bash
-```
+## 👨‍💻 Author
+
+**Shaikh Khizer**  
+Computer Science Student | Penetration Tester
