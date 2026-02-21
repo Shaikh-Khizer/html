@@ -63,7 +63,16 @@ html -h
 html main
 ```
 - this wil create a html file.
+### Note
+```code
+  - Without -e or -d, defaults to decode (for backward compatibility)
+  - With -s, automatically detects and processes appropriately
+  - File size limited to 64KB
+  - Supports basic (&lt;, &gt;, etc.) and full (&#123;) encoding
+```
+
 ---
+
 ## 📄 License
 
 This project is licensed under the MIT License.  
